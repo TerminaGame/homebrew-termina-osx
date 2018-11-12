@@ -1,4 +1,4 @@
-class TerminaNightly < Formula
+class TerminaDev < Formula
     desc "A fun CLI SUD game written in Swift"
     homepage "https://github.com/TerminaGame/base"
     url "https://marquiskurt.visualstudio.com/_apis/resources/Containers/1238012?itemPath=drop&$format=zip"
