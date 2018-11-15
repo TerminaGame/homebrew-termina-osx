@@ -1,9 +1,9 @@
 class TerminaDev < Formula
     desc "Termina is a fun singe-user dungeon game written in the Swift language."
-    homepage "https://github.com/TerminaGame/base"
-    url "https://github.com/TerminaGame/homebrew-termina-osx/releases/download/20181114.2/drop.zip"
-    sha256 "18d91cb6a86eb4288942e28b3eef0336b4dba64e92d2ae50176bde80ca4626ac"
-    version "1.0.0beta1build20181114.2"
+    homepage "https://terminagame.github.io"
+    url "https://github.com/TerminaGame/homebrew-termina-osx/releases/download/20181115.1/termina.zip"
+    sha256 "712bf0e5d714fafc68dd565e1a320ece049d1e7f52202563dd2bab92a8c3b43b"
+    version "1.0.0beta1build20181115.1"
         
     bottle :unneeded
     
